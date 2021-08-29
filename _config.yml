@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko-kr"
@@ -105,11 +105,11 @@ author:
   avatar           : "/assets/images/myphoto.jpg"
   bio              : "나는 무엇이든 할 수 있다(TOTIPOTENCY)"
   location         : "Korea, Seoul"
-  email            : # 
+  email            : "karegoie@snu.ac.kr"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "karegoie@snu.ac.kr"
+    - #label: "Email"
+      #icon: "fas fa-fw fa-envelope-square"
+      #url: "karegoie@snu.ac.kr"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
