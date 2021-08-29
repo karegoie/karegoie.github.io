@@ -24,8 +24,8 @@ description              : "현수의 매일매일 개발 이야기"
 url                      : "https://karegoie.github.io"
 baseurl                  : ""
 repository               : "karegoie/karegoie.github.io"
-teaser                   : "/assets/images/500x300.png"
-logo                     : "/assets/images/88x88.png"
+teaser                   : "/assets/images/codingwhale.jpg"
+logo                     : "/assets/images/whale.png"
 masthead_title           : " "
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -105,7 +105,7 @@ author:
   avatar           : "/assets/images/myphoto.jpg"
   bio              : "나는 무엇이든 할 수 있다(TOTIPOTENCY)"
   location         : "Korea, Seoul"
-  email            : "karegoie@snu.ac.kr"
+  email            : # 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
